@@ -1,5 +1,7 @@
 [English](/README.md) | [فارسی](/README.fa_IR.md)
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/bllackbull/Songbird)
+
 <div align="center">
 
 # <img src="./client/public/songbird-logo.svg" alt="Songbird"> Songbird
